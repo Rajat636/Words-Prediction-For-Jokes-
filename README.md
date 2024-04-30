@@ -1,5 +1,4 @@
 # Words-Prediction-For-Jokes-
-Words Prediction For Jokes
 Welcome to Words Prediction For Jokes, a project that harnesses the power of deep learning to tickle your funny bone! Using a Long Short-Term Memory (LSTM) model, this innovative platform predicts the next possible words to craft hilarious jokes seamlessly.
 
 Project Overview
